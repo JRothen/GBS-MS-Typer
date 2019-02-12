@@ -10,7 +10,7 @@ Under development.
 Julian Rothen *et al*. Subspecies typing of *Streptococcus agalactiae* based on ribosomal subunit protein mass variation by MALDI-TOF MS. 2019. Publication pending.
 
 ## Contact
-Julian Rothen, PhD
-Swiss Tropical and Public Health Institute (Swiss TPH)
-Basel, Switzerland
+Julian Rothen, PhD\
+Swiss Tropical and Public Health Institute (Swiss TPH)\
+Basel, Switzerland\
 julian.rothen@gmx.ch
